@@ -1,0 +1,20 @@
+.main_products {
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 20px;
+}
+
+.products_view {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.product {
+  height: 120px;
+  width: 120px;
+  background-color: violet;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}

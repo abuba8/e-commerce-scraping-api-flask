@@ -1,0 +1,25 @@
+.home {
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 30px;
+}
+
+.home_content {
+  display: flex;
+  justify-content: center;
+}
+
+.brand-view {
+  cursor: pointer;
+  margin-left: 10%;
+  margin-right: 10%;
+  height: 60px;
+  width: 80%;
+  border: 3px solid #cccc00;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 15px;
+}
